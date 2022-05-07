@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.0ef83644.chunk.css",
-    "main.js": "./static/js/main.fc4e2f01.chunk.js",
-    "main.js.map": "./static/js/main.fc4e2f01.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.49f14d8c.js",
-    "runtime-main.js.map": "./static/js/runtime-main.49f14d8c.js.map",
+    "main.css": "./static/css/main.ceb5ae10.chunk.css",
+    "main.js": "./static/js/main.c22ea1f3.chunk.js",
+    "main.js.map": "./static/js/main.c22ea1f3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.5ab48e9f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.5ab48e9f.js.map",
     "static/css/2.f16765f5.chunk.css": "./static/css/2.f16765f5.chunk.css",
-    "static/js/2.96fe3a89.chunk.js": "./static/js/2.96fe3a89.chunk.js",
-    "static/js/2.96fe3a89.chunk.js.map": "./static/js/2.96fe3a89.chunk.js.map",
-    "static/js/3.a6bdae3b.chunk.js": "./static/js/3.a6bdae3b.chunk.js",
-    "static/js/3.a6bdae3b.chunk.js.map": "./static/js/3.a6bdae3b.chunk.js.map",
+    "static/js/2.21d6a927.chunk.js": "./static/js/2.21d6a927.chunk.js",
+    "static/js/2.21d6a927.chunk.js.map": "./static/js/2.21d6a927.chunk.js.map",
+    "static/js/3.539c123c.chunk.js": "./static/js/3.539c123c.chunk.js",
+    "static/js/3.539c123c.chunk.js.map": "./static/js/3.539c123c.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.f16765f5.chunk.css.map": "./static/css/2.f16765f5.chunk.css.map",
-    "static/css/main.0ef83644.chunk.css.map": "./static/css/main.0ef83644.chunk.css.map",
-    "static/js/2.96fe3a89.chunk.js.LICENSE.txt": "./static/js/2.96fe3a89.chunk.js.LICENSE.txt",
+    "static/css/main.ceb5ae10.chunk.css.map": "./static/css/main.ceb5ae10.chunk.css.map",
+    "static/js/2.21d6a927.chunk.js.LICENSE.txt": "./static/js/2.21d6a927.chunk.js.LICENSE.txt",
     "static/media/Atayal.png": "./static/media/Atayal.6c1ff1c2.png",
     "static/media/Atayal.jpg": "./static/media/Atayal.c9812790.jpg",
     "static/media/Bunun.png": "./static/media/Bunun.60bbbb9a.png",
@@ -50,6 +50,7 @@
     "static/media/Yami.jpg": "./static/media/Yami.ed37cc74.jpg",
     "static/media/arms.jpg": "./static/media/arms.236d0562.jpg",
     "static/media/arrow.jpg": "./static/media/arrow.0c27728c.jpg",
+    "static/media/atay.7918d850.png": "./static/media/atay.7918d850.png",
     "static/media/blackrice.png": "./static/media/blackrice.cf8a29b2.png",
     "static/media/clothing.jpg": "./static/media/clothing.e9a21d05.jpg",
     "static/media/designevo.jpg": "./static/media/designevo.312ac2b7.jpg",
@@ -85,10 +86,10 @@
     "static/media/year.png": "./static/media/year.dac6b827.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.49f14d8c.js",
+    "static/js/runtime-main.5ab48e9f.js",
     "static/css/2.f16765f5.chunk.css",
-    "static/js/2.96fe3a89.chunk.js",
-    "static/css/main.0ef83644.chunk.css",
-    "static/js/main.fc4e2f01.chunk.js"
+    "static/js/2.21d6a927.chunk.js",
+    "static/css/main.ceb5ae10.chunk.css",
+    "static/js/main.c22ea1f3.chunk.js"
   ]
 }
